@@ -18,6 +18,7 @@ body {
 #container {
   width: 75%;
   margin: 68px 180px 68px 180px;
+  border: 1px solid red;
   background-color: #ffffff;
   text-align: center;
   padding: 24px;
@@ -30,10 +31,10 @@ body {
 }
 
 #profile img {
-  display: center;
   width: 1100px;
+  margin: auto;
   padding: 5px;
-  border-radius: 16px;
+  border-radius: 10px;
 }
 
 #profile figcaption {
