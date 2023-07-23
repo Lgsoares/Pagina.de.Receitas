@@ -13,7 +13,7 @@ Desavio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Pagina de Receitas.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/Pagina de Receitas.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
